@@ -1,0 +1,3 @@
+[submodule "Azure-Mobile-Services-Labs"]
+	path = Azure-Mobile-Services-Labs
+	url = https://github.com/mspcontent/Azure-Mobile-Services-Labs
